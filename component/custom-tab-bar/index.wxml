@@ -1,5 +1,5 @@
 <view>
-    <div class="van-tabbar-h" style="height:54px;"></div>
+<!--    <div class="van-tabbar-h" style="height:54px;"></div>-->
     <van-tabbar active="{{selected}}" fixed="{{true}}" bind:change="onTabbarChange">
         <van-tabbar-item name="{{item.name}}" wx:for="{{list}}" wx:key="index">
             <image slot="icon" src="{{item.iconPath}}" mode="aspectFit"/>

@@ -1,4 +1,9 @@
 <view class="bgf5f5f5">
-    hello 1
+    <view style="height:200px;border:1px solid red;width:100%;margin-bottom:5px;">hello 1</view>
+    <view style="height:200px;border:1px solid red;width:100%;margin-bottom:5px;">hello 2</view>
+    <view style="height:200px;border:1px solid red;width:100%;margin-bottom:5px;">hello 3</view>
+    <view style="height:200px;border:1px solid red;width:100%;margin-bottom:5px;">hello 4</view>
+    <view style="height:200px;border:1px solid red;width:100%;margin-bottom:5px;">hello 5</view>
+    <view style="height:200px;border:1px solid red;width:100%;margin-bottom:5px;">hello 6</view>
     <custom-tab-bar selectedStr="home-/pages/wanted/index/wanted"></custom-tab-bar>
 </view>
