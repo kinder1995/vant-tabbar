@@ -1,0 +1,4 @@
+/**app.wxss**/
+@import "css/iconfont.wxss";
+@import "css/style.wxss";
+@import "css/style2.wxss";

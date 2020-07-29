@@ -1,0 +1,4 @@
+<view>
+	hello 2
+	<custom-tab-bar selectedStr="my-/pages/my/index/my"></custom-tab-bar>
+</view>

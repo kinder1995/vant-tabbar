@@ -1,0 +1,4 @@
+<view class="bgf5f5f5">
+    hello 1
+    <custom-tab-bar selectedStr="home-/pages/wanted/index/wanted"></custom-tab-bar>
+</view>

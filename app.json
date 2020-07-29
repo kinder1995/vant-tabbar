@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/wanted/index/wanted",
+    "pages/my/index/my"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f8f8f8"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#666666",
+    "selectedColor": "#1C9DFF",
+    "list": [
+      {
+        "pagePath": "pages/wanted/index/wanted",
+        "iconPath": "images/tab/tab01.png",
+        "selectedIconPath": "images/tab/tab01-on.png",
+        "text": "求购"
+      },
+      {
+        "pagePath": "pages/my/index/my",
+        "iconPath": "images/tab/tab04.png",
+        "selectedIconPath": "images/tab/tab04-on.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "van-checkbox": "@vant/weapp/checkbox/index",
+    "van-checkbox-group": "@vant/weapp/checkbox-group/index",
+    "van-button": "@vant/weapp/button/index",
+    "van-cell": "@vant/weapp/cell/index",
+    "van-cell-group": "@vant/weapp/cell-group/index",
+    "van-grid": "@vant/weapp/grid/index",
+    "van-grid-item": "@vant/weapp/grid-item/index",
+    "van-card": "@vant/weapp/card/index",
+    "van-search": "@vant/weapp/search/index",
+    "van-dropdown-menu": "@vant/weapp/dropdown-menu/index",
+    "van-dropdown-item": "@vant/weapp/dropdown-item/index",
+    "van-field": "@vant/weapp/field/index",
+    "van-picker": "@vant/weapp/picker/index",
+    "van-popup": "@vant/weapp/popup/index",
+    "van-uploader": "@vant/weapp/uploader/index",
+    "van-icon": "@vant/weapp/icon/index",
+    "van-tab": "@vant/weapp/tab/index",
+    "van-tabs": "@vant/weapp/tabs/index",
+    "van-tabbar": "@vant/weapp/tabbar/index",
+    "van-tabbar-item": "@vant/weapp/tabbar-item/index",
+    "van-panel": "@vant/weapp/panel/index"
+  }
+}

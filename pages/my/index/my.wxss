@@ -1,0 +1,3 @@
+/* pages/search/index/index.wxss */
+
+.box{width:100px;height:100px;background:#000;color:#fff;line-height:100px;margin:0 auto;text-align:center;}
